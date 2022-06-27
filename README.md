@@ -1,2 +1,2 @@
 # WebOELFinal
-MERN stack
+Install packages and run 
